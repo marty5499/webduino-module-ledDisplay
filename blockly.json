@@ -9,8 +9,8 @@
     "blockly/javascript.js"
   ],
   "dependencies": [
-    "ledDisplay.js",
-    "ledDisplay-blockly.js"
+    "LedDisplay.js",
+    "LedDisplay-blockly.js"
   ],
   "msg": "blockly/msg",
   "blocksMsg": "blockly/msg/blocks",
