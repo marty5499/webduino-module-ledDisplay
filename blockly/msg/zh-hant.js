@@ -1,0 +1,1 @@
+MSG.catLEDDisplay = "數字顯示器";

@@ -1,0 +1,20 @@
+<category id="catLEDDisplay">
+  <block type="leddisplay_create">
+  </block>
+  <block type="leddisplay_show">
+    <value name="data">
+      <shadow type="text">
+        <field name="TEXT">12:00</field>
+      </shadow>
+    </value>
+  </block>
+  <block type='leddisplay_showhhmm'>
+  </block>
+  <block type="leddisplay_setcolor">
+    <value name="color">
+      <block type="colour_picker">
+        <field name="COLOUR">#ff0000</field>
+      </block>
+    </value>
+  </block>
+</category>
